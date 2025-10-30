@@ -9,7 +9,7 @@
 ## **Personal Profile**
 Accomplished graphic designer and digital media specialist with expertise in photography, marketing, and 3D modeling. Proven track record of creating visually compelling designs that enhance brand awareness and increase engagement. Skilled in Adobe Creative Cloud, Blender 3D, and web technologies to produce cutting-edge visual and interactive assets. Experienced in prepress and print production workflows, ensuring high-quality outputs and reducing production costs. Strong communicator with a history of collaborating with cross-functional teams to execute impactful digital and print campaigns.
 
-### **Research Interests**
+## **Research Interests**
 
 ## **Academic Degrees**
 **Doctor of Philosophy — Texts & Technology (Digital Media)**  
