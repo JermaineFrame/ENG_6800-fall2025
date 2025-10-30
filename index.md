@@ -1,4 +1,4 @@
-![Featured Image](/assets/featured-image.jpg)
+![Featured Image](/assets/featured-image.JPG)
 
 # **Jermaine Johnson**
 **Phone:** 407-973-1747  
