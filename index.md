@@ -93,3 +93,8 @@ Windows, macOS
 ## **Committee Service**
 **Digital Media Technology Advisory Committee**  
 Polk State College (2022, 2023, 2024)
+
+### Socials
+- [Portfolio](https://jermainejohnson.art/)
+- [LinkedIn](https://www.linkedin.com/in/jermainejohnsonart/)
+- [GitHub](https://github.com/JermaineFrame)
