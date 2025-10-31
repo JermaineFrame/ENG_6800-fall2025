@@ -3,10 +3,6 @@ layout: page
 title: "Jermaine Johnson"
 ---
 
-<div style="text-align:center;">
-  <img src="./assets/profile.jpg" alt="Profile photo" width="180" style="border-radius:100%; margin-bottom: 1rem;" />
-</div>
-
 ## PhD Student — Texts & Technology  
 **University of Central Florida**
 
