@@ -1,8 +1,9 @@
 ---
 layout: home
 title: "Home"
+![Featured Image]({{ '/assets/featured-image.jpg' | relative_url }})
 ---
-![Featured Image](/assets/featured-image.jpg)
+![Portrait of Jermaine Johnson](/assets/featured-image.jpg)
 
 ## PhD Student — Texts & Technology  
 **University of Central Florida**
