@@ -1,4 +1,9 @@
-![Featured Image](/assets/featured-image.jpeg)
+---
+layout: default
+title: CV
+---
+
+![Featured Image](/assets/header.jpeg)
 
 
 # **Jermaine Johnson**
