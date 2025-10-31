@@ -1,9 +1,29 @@
 ---
 layout: default
 title: CV
+![Featured Image]({{ '/assets/header.jpeg' | relative_url }})
 ---
 
-![Featured Image](/assets/header.jpeg)
+![Header Image](/assets/header.jpeg)
+
+- [**Jermaine Johnson**](#jermaine-johnson)
+  - [**Personal Profile**](#personal-profile)
+  - [**Academic Degrees**](#academic-degrees)
+  - [**Selected Employment**](#selected-employment)
+    - [**Lead Graphic Designer of Enrollment Management**](#lead-graphic-designer-of-enrollment-management)
+    - [**Graphic Designer \& Prepress Technician**](#graphic-designer--prepress-technician)
+    - [**Digital Media Intern**](#digital-media-intern)
+  - [**Awards \& Achievements**](#awards--achievements)
+  - [**Technical Skills**](#technical-skills)
+    - [**Digital Design**](#digital-design)
+    - [**3D \& Game**](#3d--game)
+    - [**Marketing \& Branding**](#marketing--branding)
+    - [**Generative AI**](#generative-ai)
+    - [**Web Development**](#web-development)
+    - [**Software \& Productivity**](#software--productivity)
+    - [**Research \& Data Analysis**](#research--data-analysis)
+    - [**Operating Systems**](#operating-systems)
+  - [**Committee Service**](#committee-service)
 
 
 # **Jermaine Johnson**
