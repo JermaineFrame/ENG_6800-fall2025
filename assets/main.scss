@@ -1,10 +1,10 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import "minima/skins/dark";
+@import "minima";
+@import url("https://fonts.googleapis.com/css?family=Roboto");
 
-/* Center content and improve readability */
 .page-content {
   max-width: 780px;
   margin: auto;
@@ -13,13 +13,14 @@
   line-height: 1.65;
 }
 
-/* Table clean style */
 table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 1.5rem;
 }
-th, td {
+
+th,
+td {
   padding: 0.6rem;
   border-bottom: 1px solid var(--border-color);
 }
@@ -29,25 +30,25 @@ body {
 }
 
 header {
-    font-family: "Roboto", sans-serif;
-  background: #00A3E0;
-  background-image: url(../assets/header.png);
+  font-family: "Roboto", sans-serif;
+  background: #00a3e0;
+  background-image: url("{{ '/assets/header.png' | relative_url }}");
 }
 
 header a.button {
-  background: #FF6F20;
+  background: #ff6f20;
 }
 
 aside a.button {
-  background: #FF6F20;
+  background: #ff6f20;
 }
 
-#main-content h2:before {
+#main-content h2::before {
   color: lightgreen;
 }
 
-#main-content h1:before {
-  color: #FF6F20;
+#main-content h1::before {
+  color: #ff6f20;
 }
 
 #main-content h3 {
