@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Projects
 ---
 
 ## Unity Game | Noctoflora: Last Light
@@ -13,4 +12,4 @@ title: Projects
 
 
 ## RetopAI (concept)
-- AI-supported automated retopology workflows for 3D pipelines. |
+- AI-supported automated retopology workflows for 3D pipelines.

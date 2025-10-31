@@ -24,6 +24,6 @@ I research the intersections of **digital media preservation**, **ownership**, a
 **Location:** Davenport, FL  
 
 ### **Links**
-- **Portfolio:** https://jermainejohnson.art  
-- **GitHub:** https://github.com/JermaineFrame  
-- **LinkedIn:** https://www.linkedin.com/in/jermainejohnsonart/
+- **[Portfolio]** (https://jermainejohnson.art) 
+- **[GitHub]** (https://github.com/JermaineFrame) 
+- **[LinkedIn]** (https://www.linkedin.com/in/jermainejohnsonart/)
