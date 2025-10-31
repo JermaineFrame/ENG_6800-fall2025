@@ -1,33 +1,41 @@
 ---
-layout: default
-title: Your Name - Academic Portfolio
+layout: page
+title: "Jermaine Johnson"
 ---
 
-![Featured Image](/assets/featured-image.jpg)
+<div style="text-align:center;">
+  <img src="./assets/profile.jpg" alt="Profile photo" width="180" style="border-radius:100%; margin-bottom: 1rem;" />
+</div>
 
-# Your Name
-## Your Academic Position
+## PhD Student — Texts & Technology  
+**University of Central Florida**
 
-### About Me
-Briefly introduce yourself and your academic interests.
+I research the intersections of **digital media preservation**, **ownership**, and **the politics of access** within software-driven cultural artifacts, particularly video games and interactive digital media systems.
 
-### Research Interests
-- Topic 1
-- Topic 2
-- Topic 3
+---
 
-### Publications and/or Conferences
+### **Research Areas**
+- Digital Content Preservation (esp. video games)
+- DRM, Ownership & Licensing
+- Platform & Online Service Shutdowns
+- Generative Media Structures
 
-1. Paper Title, Journal, Year
-2. Another Paper Title, Conference, Year
+---
 
-### Contact
+### **Projects**
+| Project | Description |
+|--------|-------------|
+| *Noctoflora: Last Light* | A 2.5D metroidvania exploring ecological imbalance and memory. |
+| *VR PC Builder* | A virtual learning tool teaching PC assembly & systems literacy. |
+| *RetopAI* (concept) | AI-supported automated retopology workflows for 3D pipelines. |
 
-- Email: your-email@example.com
-- Office: Your office location
+---
 
-### Follow Me
+### **Contact**
+**Email:** JermaineJeromeJohnson@gmail.com  
+**Location:** Davenport, FL  
 
-- [Bluesky](https://bsky.app/your_bluesky_handle)
-- [LinkedIn](https://linkedin.com/in/your_linkedin_profile)
-- [GitHub](https://github.com/your_github_username)
+### **Links**
+- **Portfolio:** https://jermainejohnson.art  
+- **GitHub:** https://github.com/JermaineFrame  
+- **LinkedIn:** https://www.linkedin.com/in/jermainejohnsonart/
