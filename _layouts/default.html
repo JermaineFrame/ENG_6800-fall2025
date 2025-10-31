@@ -14,16 +14,17 @@
 {% seo %}
 
     {% include head-custom.html %}
-<aside id="sidebar">
-
-          <a href="https://[Your GitHub Username].github.io/repository0name/" class="button">Home</a>
-          <a href="teaching" class="button">Teaching</a>
-          <a href="projects" class="button">Projects</a>
-
+    
   </head>
 
   <body>
     <header>
+        <aside id="sidebar">
+
+          <a href="https://[Your GitHub Username].github.io/repository0name/" class="button">Home</a>
+          <a href="teaching" class="button">Teaching</a>
+          <a href="projects" class="button">Projects</a>
+          
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
