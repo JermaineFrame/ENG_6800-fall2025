@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "Jermaine Johnson - Academic Portfolio"
+title: "Home"
 ---
-![Featured Image](./assets/featured-image.jpg)
+![Featured Image](/assets/featured-image.jpg)
 
 ## PhD Student — Texts & Technology  
 **University of Central Florida**
