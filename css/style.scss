@@ -8,8 +8,8 @@ body {
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
-  color: $primary-light-blue; /* Blue */
-  background: $secondary-light-orange; /* Orange */;
+  color: #00A3E0; /* Blue */
+  background: #FF6F20; /* Orange */;
   background-image: url(../images/body-bg.jpg);
   background-repeat: repeat;
 }
@@ -19,20 +19,20 @@ p {
 }
 
 a {
-  color: $primary-light-blue; /* Blue */
+  color: #00A3E0; /* Blue */
 }
 a:hover {
-  color: $secondary-light-orange; /* Orange */
+  color: #FF6F20; /* Orange */
 }
 
 header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background: $primary-light-blue; /* Blue */;
+  background: #00A3E0; /* Blue */;
   background-image: url(../assets/header.png);
   background-repeat: repeat-x;
-  border-bottom: solid 1px $secondary-light-orange; /* Orange */
+  border-bottom: solid 1px #FF6F20; /* Orange */
 }
 
 header h1 {
@@ -42,7 +42,7 @@ header h1 {
   font-size: 72px;
   font-weight: normal;
   line-height: 1;
-  color: $secondary-light-orange; /* Orange */
+  color: #FF6F20; /* Orange */
   letter-spacing: -1px;
 }
 
@@ -53,7 +53,7 @@ header h2 {
   font-size: 26px;
   font-weight: normal;
   line-height: 1.3;
-  color: $primary-light-blue; /* Blue */
+  color: #00A3E0; /* Blue */
   letter-spacing: 0;
 }
 
@@ -457,6 +457,3 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
-
-$primary-light-blue: #ADD8E6;
-$secondary-light-orange: #FFCC99;
