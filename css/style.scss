@@ -8,8 +8,10 @@ body {
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
-  color: #666;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  color: $primary-light-blue; /* Blue */
+  background: $secondary-light-orange; /* Orange */;
+  background-image: url(../images/body-bg.jpg);
+  background-repeat: repeat;
 }
 
 p {
@@ -17,18 +19,20 @@ p {
 }
 
 a {
-  color: #2879d0;
+  color: $primary-light-blue; /* Blue */
 }
 a:hover {
-  color: #2268b2;
+  color: $secondary-light-orange; /* Orange */
 }
 
 header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../assets/header.png) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  background: $primary-light-blue; /* Blue */;
+  background-image: url(../assets/header.png);
+  background-repeat: repeat-x;
+  border-bottom: solid 1px $secondary-light-orange; /* Orange */
 }
 
 header h1 {
@@ -38,7 +42,7 @@ header h1 {
   font-size: 72px;
   font-weight: normal;
   line-height: 1;
-  color: #fff;
+  color: $secondary-light-orange; /* Orange */
   letter-spacing: -1px;
 }
 
@@ -49,7 +53,7 @@ header h2 {
   font-size: 26px;
   font-weight: normal;
   line-height: 1.3;
-  color: #9ddcff;
+  color: $primary-light-blue; /* Blue */
   letter-spacing: 0;
 }
 
@@ -453,3 +457,6 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
+
+$primary-light-blue: #ADD8E6;
+$secondary-light-orange: #FFCC99;
