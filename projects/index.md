@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Projects
 ---
 
 ## Unity Game | Noctoflora: Last Light
