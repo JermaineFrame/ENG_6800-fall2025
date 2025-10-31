@@ -1,9 +1,9 @@
 ---
 layout: home
 title: "Home"
-![Featured Image]({{ '/assets/featured-image.jpg' | relative_url }})
+![Featured Image]({{ '/assets/featured-image.jpeg' | relative_url }})
 ---
-![Portrait of Jermaine Johnson](/assets/featured-image.jpg)
+![Portrait of Jermaine Johnson](/assets/featured-image.jpeg)
 
 ## PhD Student — Texts & Technology  
 **University of Central Florida**
@@ -25,6 +25,6 @@ I research the intersections of **digital media preservation**, **ownership**, a
 **Location:** Davenport, FL  
 
 ### **Links**
-- **[Portfolio]** (https://jermainejohnson.art) 
-- **[GitHub]** (https://github.com/JermaineFrame) 
-- **[LinkedIn]** (https://www.linkedin.com/in/jermainejohnsonart/)
+- [Portfolio](https://jermainejohnson.art) 
+- [GitHub](https://github.com/JermaineFrame) 
+- [LinkedIn](https://www.linkedin.com/in/jermainejohnsonart/)

@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-## Unity Game | Noctoflora: Last Light
+## Noctoflora: Last Light | Unity Game
 - A 2.5D metroidvania exploring ecological imbalance and memory.
 - Unity 6, Blender 3D, Substance Painter
 
