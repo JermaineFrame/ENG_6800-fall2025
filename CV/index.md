@@ -1,7 +1,6 @@
 ---
 layout: default
 title: CV
-![Featured Image]({{ '/assets/header.jpeg' | relative_url }})
 ---
 
 ![Header Image](/assets/header.jpeg)
