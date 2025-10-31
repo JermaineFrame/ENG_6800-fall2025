@@ -2,8 +2,15 @@
 layout: default
 title: Jermaine Johnson - Academic Portfolio
 ---
+- [Jermaine Johnson](#jermaine-johnson)
+  - [PhD Student](#phd-student)
+    - [About Me](#about-me)
+    - [**Research Interests**](#research-interests)
+- [**Jermaine Johnson's Contact Info**- Jermaine Johnson](#jermaine-johnsons-contact-info--jermaine-johnson)
+    - [Socials](#socials)
 
-![Featured Image](/assets/featured-image.jpg)
+
+![Featured Image](../ENG_6800-fall2025/assets/featured-image.jpeg)
 
 # Jermaine Johnson
 ## PhD Student
@@ -16,7 +23,7 @@ Jermaine is a Graphic Designer at Florida Southern College with years of experie
 - Ownership and DRM (Digital Rights Management)
 - Online Censorship 
 
-# **Jermaine Johnson's Contact Info**
+# **Jermaine Johnson's Contact Info**- [Jermaine Johnson](#jermaine-johnson)
 **Phone:** 407-973-1747  
 **Location:** Davenport, FL  
 **Email:** JermaineJeromeJohnson@gmail.com  
