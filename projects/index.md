@@ -6,9 +6,13 @@ title: Projects
 # Projects
 
 ## Unity Game | Noctoflora: Last Light
-- Project Description
+- A 2.5D metroidvania exploring ecological imbalance and memory.
 - Unity 6, Blender 3D, Substance Painter
 
-## Project 2
-- Project Description
-- Technologies Used
+
+##VR PC Builder
+- A virtual learning tool teaching PC assembly & systems literacy.
+
+
+##RetopAI (concept)
+- AI-supported automated retopology workflows for 3D pipelines. |

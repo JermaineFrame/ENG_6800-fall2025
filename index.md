@@ -19,15 +19,6 @@ I research the intersections of **digital media preservation**, **ownership**, a
 
 ---
 
-### **Projects**
-| Project | Description |
-|--------|-------------|
-| *Noctoflora: Last Light* | A 2.5D metroidvania exploring ecological imbalance and memory. |
-| *VR PC Builder* | A virtual learning tool teaching PC assembly & systems literacy. |
-| *RetopAI* (concept) | AI-supported automated retopology workflows for 3D pipelines. |
-
----
-
 ### **Contact**
 **Email:** JermaineJeromeJohnson@gmail.com  
 **Location:** Davenport, FL  
