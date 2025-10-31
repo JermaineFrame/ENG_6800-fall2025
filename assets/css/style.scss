@@ -4,6 +4,25 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+/* Center content and improve readability */
+.page-content {
+  max-width: 780px;
+  margin: auto;
+  padding: 2.5rem 1.2rem;
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+/* Table clean style */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1.5rem;
+}
+th, td {
+  padding: 0.6rem;
+  border-bottom: 1px solid var(--border-color);
+}
 
 body {
   font-family: "Roboto", sans-serif;

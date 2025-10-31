@@ -1,1 +1,10 @@
-theme: minima
+remote_theme: jekyll/minima
+
+title: "Jermaine Johnson"
+description: "PhD Student • Digital Media Research • Game Preservation"
+author: "Jermaine Johnson"
+
+
+minima:
+  skin: dark
+  - /assets/css/style.scss
