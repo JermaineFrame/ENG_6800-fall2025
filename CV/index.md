@@ -3,8 +3,10 @@ layout: default
 title: CV
 ---
 
-![Header Image](/assets/header.jpeg)
+![Header Image](../assets/header.jpeg)
 
+
+## **Contents**
 - [**Jermaine Johnson**](#jermaine-johnson)
   - [**Personal Profile**](#personal-profile)
   - [**Academic Degrees**](#academic-degrees)
